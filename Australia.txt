@@ -1,0 +1,8 @@
+melbourne 
+sydney
+canberra
+adeliade
+perth
+south australia
+darwin
+western australia
