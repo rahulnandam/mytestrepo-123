@@ -1,1 +1,6 @@
 melbourne
+sydney 
+canberra
+brisbane 
+queenslans
+goldcoast
