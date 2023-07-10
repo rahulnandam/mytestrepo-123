@@ -1,6 +1,6 @@
 melbourne
 sydney 
-canberra
+canberra is capital 
 brisbane 
 queenslans
 goldcoast
